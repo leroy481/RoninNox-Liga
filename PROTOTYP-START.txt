@@ -1,0 +1,12 @@
+RONIN NOX — FERTIGER UI-PROTOTYP
+
+1. Diesen Ordner öffnen.
+2. public/index.html doppelklicken.
+3. Die fertige Website öffnet sich direkt im Browser.
+
+DEMO-LOGIN
+KAZE / ronin123
+AKUMA / ronin123
+
+Die Oberfläche ist als Endzustand-Prototyp aufgebaut: Hero, Rennseite, Countdown,
+Leaderboards, Rennhistorie, Regeln, Sanktionen, Login und Fahrerprofil.

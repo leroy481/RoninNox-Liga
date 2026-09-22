@@ -1,0 +1,10 @@
+{
+  "name":"ronin-nox-league",
+  "version":"1.0.0",
+  "private":true,
+  "description":"RONIN NOX Street Racing Division - full-stack league webapp",
+  "type":"module",
+  "scripts":{"start":"node server.js","dev":"node --watch server.js","db:seed-owner":"node scripts/seed-owner.js"},
+  "dependencies":{"bcryptjs":"^3.0.2","better-sqlite3":"^12.2.0","cookie-parser":"^1.4.7","dotenv":"^17.2.2","express":"^5.1.0","helmet":"^8.1.0","nanoid":"^5.1.5"},
+  "engines":{"node":">=20"}
+}
